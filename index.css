@@ -1,0 +1,38 @@
+:root {
+  --header-height: 185px;
+}
+
+body {
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 200px;
+  background-color: green;
+}
+
+.main {
+}
+
+.tel-link {
+  display: block;
+  width: 200px;
+  height: 50px;
+  border: 1px solid black;
+}
+
+.aside {
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 200px;
+  background-color: green;
+}
